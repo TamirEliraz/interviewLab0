@@ -8,16 +8,17 @@
     <version >1.0-SNAPSHOT</version >
     
     <properties >
-        <maven.compiler.source >19</maven.compiler.source >
-        <maven.compiler.target >19</maven.compiler.target >
+        <JavaVersion>19</JavaVersion>
+        <JUnitVersion >5.9.0</JUnitVersion >
+        <maven.compiler.source >${JavaVersion}</maven.compiler.source >
+        <maven.compiler.target >${JavaVersion}</maven.compiler.target >
         <project.build.sourceEncoding >UTF-8</project.build.sourceEncoding >
-        <junitVertion >5.9.0</junitVertion >
     </properties >
     <dependencies >
         <dependency >
             <groupId >org.junit.jupiter</groupId >
             <artifactId >junit-jupiter</artifactId >
-            <version >${junitVertion}</version >
+            <version >${JUnitVersion}</version >
             <scope >test</scope >
         </dependency >
     </dependencies >
