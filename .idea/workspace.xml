@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6292d93-a4bb-4102-bfdf-aab333d7f468" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxNonNegativeSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tester1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MyLhT0Gf3YYX2s9IQCvzCRqLuO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Tester1">
+    <configuration name="Tester1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interviewLab0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester1.t1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interviewLab0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester1" />
+      <option name="METHOD_NAME" value="t1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester1.t2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interviewLab0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Tester1" />
+      <option name="METHOD_NAME" value="t2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for class MaxNonNegativeSubArray" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration">
+      <module name="interviewLab0" />
+      <settings run-config-name="Write tests for class MaxNonNegativeSubArray" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>class</selection-scope>
+        <selected-element key="MaxNonNegativeSubArray" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Write tests for prefix unknown (2)" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="interviewLab0" />
+      <settings run-config-name="Write tests for prefix unknown (2)" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>prefix</selection-scope>
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tester1" />
+        <item itemvalue="Diffblue Cover.Write tests for class MaxNonNegativeSubArray" />
+        <item itemvalue="JUnit.Tester1.t2" />
+        <item itemvalue="JUnit.Tester1.t1" />
+        <item itemvalue="Diffblue Cover.Write tests for prefix unknown (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6292d93-a4bb-4102-bfdf-aab333d7f468" name="Changes" comment="" />
+      <created>1678734999540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678734999540</updated>
+      <workItem from="1678735008846" duration="4415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tester1.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
